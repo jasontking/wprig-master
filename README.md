@@ -1,4 +1,4 @@
 Develop a custom wordpress theme with wp-rip
-Author: Jason Kingston
-Email: kingstondigitalmedia@gmail.com
-https://kingstondigital.ca
+<br>Author: Jason Kingston
+<br>mail: kingstondigitalmedia@gmail.com
+<br>https://kingstondigital.ca
